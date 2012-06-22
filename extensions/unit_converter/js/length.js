@@ -1,0 +1,36 @@
+﻿var unitID = "length";
+var defaultUnitIndex = 18;
+
+var units = [
+  ["ångströms [Å]",                   1e-10],
+  ["astronomical units [AU]",         149598550000],
+  ["barleycorns",                     0.008467],
+  ["cables",                          182.88],
+  ["centimeters [cm]",                0.01],
+  ["chains (surveyors')",             20.116840233680467360934721869444],
+  ["decimeters",                      0.1],
+  ["ells (UK)",                       0.875],
+  ["ems (pica)",                      0.0042333],
+  ["fathoms",                         1.8288],
+  ["feet (UK and US)",                0.3048],
+  ["feet (US survey)",                0.30480060960121920243840487680975],
+  ["furlongs",                        201.168],
+  ["hands",                           0.1016],
+  ["hectometers [hm]",                100],
+  ["inches [in]",                     0.0254],
+  ["kilometers [km]",                 1000],
+  ["light years",                     9.460528405e15],
+  ["meters [m]",                      1],
+  ["micrometers [µm]",                1e-6],
+  ["mil",                             0.0000254],
+  ["miles (UK and US)",               1609.344],
+  ["miles (nautical, international)", 1852],
+  ["miles (nautical, UK)",            1853.184],
+  ["millimeters [mm]",                0.001],
+  ["nanometers [nm]",                 1e-9],
+  ["parsecs",                         3.0856776e16],
+  ["picometers",                      1e-12],
+  ["Scandinavian mile",               10000],
+  ["thou",                            0.0000254],
+  ["yards",                           0.9144]
+];

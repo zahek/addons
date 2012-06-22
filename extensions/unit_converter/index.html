@@ -1,0 +1,26 @@
+﻿<!doctype html>
+<html lang="en">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<head>
+<script>
+var counter = 0;
+window.addEventListener("load", function(){
+	var theButton;
+    var UIItemProperties = {
+      	disabled: false,
+      	title: "Unit Converter",
+      	icon: "images/icon18.png",
+      	popup: {
+			href: "index2.html",
+        	width: "400px",
+        	height: "590px",
+			 	},
+    }
+    theButton = opera.contexts.toolbar.createItem( UIItemProperties );
+    opera.contexts.toolbar.addItem( theButton );
+}, false);
+</script>
+</head>
+<body>
+</body>
+</html>

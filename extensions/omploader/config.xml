@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="extensions:omploader" version="1.0">
+  
+  <name>Omploader</name>
+  <author href="http://my.opera.com/zahek" email="zahek@myopera.com">z@h3k</author>
+  <icon src="64.png"/>
+  <description xml:lang="en">Upload your files directly of from web, paste your texts and share it easily.</description>
+  <description xml:lang="tr">Dosyalarınızı kolayca yükleyin, metinleri yapıştırın ve kolayca paylaşın.</description>
+  <access origin="http://ompldr.org/" subdomains="true" />
+  <license>Copyright 2012 zahek. All rights reserved.</license>
+  <update-description href="https:/"/>
+   
+</widget>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xml:lang="en" lang="en">
+<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="shortcut icon" href="http://ompldr.org/omploader_icon2.png" type="image/x-icon" />
+		<title>Omploader</title>
+	    <style type="text/css">
+<!--
+.style1 {font-size: 0.7em}
+-->
+        </style>
+</head>
+	<body>
+	<div id="container">
+			<div id="header">
+				<div id="title"><a href="http://ompldr.org/"><img src="omploader2.png" alt="omploader" /></a></div>
+				<form enctype="multipart/form-data" action="http://ompldr.org/l" method="post">
+					<div id="search">
+						<input name="search_post" size="20" class="field" type="text" value="" /><input value="search" class="button" type="submit" />
+					</div>
+				</form>
+			</div>
+			<div class="title">
+				<div class="links"><a href="omploader.html">From File </a><span class="separator">&#x2503;</span> <a href="curl.html">From URL</a></div>
+				<div>Upload</div>
+			</div>
+			<div class="content">
+				<form id="omploadpaste" enctype="multipart/form-data" action="http://ompldr.org/upload" method="post">
+					<div class="form">
+							<div class="float name left-align">
+							<div class="label">Name</div>
+							<input type="text" name="name" size="25" class="input field" />
+					</div>
+					<div class="float left-align">
+						<div class="label">Syntax</div>
+							<select name="syntax" class="input">
+								<option selected="selected" value="raw">Plain Text</option>
+								<option value="">Auto detect (fyi sux)</option>
+								<option disabled="disabled">––––––––––</option>
+								<option value="c">C</option>
+								<option value="cobol">COBOL</option>
+								<option value="cpp">C++</option>
+								<option value="css">CSS</option>
+								<option value="diff">Diff</option>
+								<option value="fortran">Fortran</option>
+								<option value="haskell">Haskell</option>
+								<option value="html">HTML</option>
+								<option value="java">Java</option>
+								<option value="javascript">JavaScript</option>
+								<option value="lisp">Lisp</option>
+								<option value="lua">Lua</option>
+								<option value="mysql">MySQL</option>
+								<option value="pascal">Pascal</option>
+								<option value="perl">Perl</option>
+								<option value="php">PHP</option>
+								<option value="python">Python</option>
+								<option value="ruby">Ruby</option>
+								<option value="scheme">Scheme</option>
+								<option value="sh">Shell</option>
+								<option value="vb">Visual Basic</option>
+								<option value="xhtml">XHTML</option>
+								<option value="xml">XML</option>
+							</select>
+					  </div>
+						<br class="clear" />
+						<div class="float"><textarea name="paste" class="input" rows="10" cols="10"></textarea></div>
+						<br class="clear" />
+						<input type="submit" value="OMPLOAD!" class="button" />
+					</div>
+				</form>
+			</div>
+	        <div class="title">
+              <div align="center" class="style1"> <a href="http://www.operaturkiye.net">Opera Türkiye</a> | <a href="http://ompldr.org/">Omploader</a> </div>
+      </div>
+	</div>
+	</body>
+
+</html>

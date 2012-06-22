@@ -1,0 +1,26 @@
+﻿<!doctype html>
+<html lang="tr">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<head>
+<script>
+var counter = 0;
+window.addEventListener("load", function(){
+	var theButton;
+    var UIItemProperties = {
+      	disabled: false,
+      	title: "Mobil Haber",
+      	icon: "icons/18.png",
+      	popup: {
+			href: "http://www.operaturkiye.net/wp-content/files/extensions/mobilhaber_v1.1/mobilhaber.html",
+        	width: "340px",
+        	height: "610px"
+      	},
+    }
+    theButton = opera.contexts.toolbar.createItem( UIItemProperties );
+    opera.contexts.toolbar.addItem( theButton );
+}, false);
+</script>
+</head>
+<body>
+</body>
+</html>

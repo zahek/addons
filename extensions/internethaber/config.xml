@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="extensions:internethaber-mobil" version="1.0">
+  <name>İnternet Haber</name>
+  <description>İnternet Haber web sayfasını kolayca takip edebilirsiniz.</description>
+  <author href="http://www.operaturkiye.net" email="magruf@gmail.com">Opera Türkiye</author>
+  <icon src="icons/simge_64x64.png"/>
+  <license>Copyright 2010 Opera Türkiye. All rights reserved.</license>
+  <update-description href="https:/"/>
+</widget>
