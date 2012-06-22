@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="extensions:haberturk" version="1.0">
+  <name>Haber Türk</name>
+  <description>Haber Türk sitesi takip eklentisi.</description>
+  <author href="http://my.opera.com/ZAHEK" email="zahhek@gmail.com">Z@H3K</author>
+  <icon src="icons/icon64x64.png"/>
+  <license>Copyright 2010 zahek. All rights reserved.</license>
+  </widget>
