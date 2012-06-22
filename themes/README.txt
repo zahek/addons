@@ -1,17 +1,17 @@
-English:
+ï»¿English:
 
 Before to use:
 This themes are for Opera 12. Before use it pls be sure that you use Opera 12+ version.
 Latest Version: htttp://www.opera.com/download
 
 Install:
-After downloading the files as .zip, just dragand drop Opera window. Theme will be enabled automatically That's all
+After downloading the files as .zip, just draga nd drop Opera window. Theme will be enabled automatically That's all
 
 
 Turkish:
 
-Kullanmadan önce:
-Bu temalar Opera 12 ve daha üst sürümler için hazırlanmıştır. Kullanmadan önce Opera 12+ sürüm kullandığınızdan emin olun.
+Kullanmadan Ã¶nce:
+Bu temalar Opera 12 ve daha Ã¼st sÃ¼rÃ¼mler iÃ§in hazÄ±rlanmÄ±ÅŸtÄ±r. Kullanmadan Ã¶nce Opera 12+ sÃ¼rÃ¼m kullandÄ±ÄŸÄ±nÄ±zdan emin olun.
 
 Kurulum:
-Dosyaları .zip dosya formatında indirdikten sonra doprudan sürükle bırak yöntemi ile Opera ekranına bırakın. Tema otomatik olarak çalışacaktır.
+DosyalarÄ± .zip dosya formatÄ±nda indirdikten sonra doprudan sÃ¼rÃ¼kle bÄ±rak yÃ¶ntemi ile Opera ekranÄ±na bÄ±rakÄ±n. Tema otomatik olarak Ã§alÄ±ÅŸacaktÄ±r.
